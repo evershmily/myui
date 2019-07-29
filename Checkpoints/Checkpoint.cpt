@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/id</source-url>
+   </source-info>
+   <taken-date>2019-07-04T17:26:04.983</taken-date>
+   <column-names>
+      <column-name>菜单</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "组织管理111",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>303b851e-d009-4c41-bc2e-638f499a1bba</testCaseGuid>
+   <variable>
+      <defaultValue>'526'</defaultValue>
+      <description></description>
+      <id>ae25a420-5ac1-4383-a09b-412f8d990de8</id>
+      <masked>false</masked>
+      <name>oaid</name>
+   </variable>
+</TestCaseEntity>
