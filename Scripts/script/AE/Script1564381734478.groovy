@@ -19,7 +19,7 @@ WebUI.navigateToUrl('https://bwae.test.bwae.org/#/signin?to=%2F')
 
 WebUI.click(findTestObject('AE/Page_/body'))
 
-WebUI.clickOffset(findTestObject('AE/Page_/div__IronCurtain'), 2, 2)
+WebUI.clickOffset(findTestObject('AE/Page_/div__IronCurtain'), 1, 2)
 
 WebUI.setText(findTestObject('Object Repository/AE2/Page_/input__loginName'), 'admin-gogs')
 
