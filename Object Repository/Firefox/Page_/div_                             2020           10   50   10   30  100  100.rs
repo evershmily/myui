@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_                             2020           10   50   10   30  100  100</name>
+   <tag></tag>
+   <elementGuidId>71bf51d3-575f-4bc5-a247-576fb7d373fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>绩效管理 我的绩效 团队绩效 成员绩效 考核范围 考核目标 我的目标 考核设置 薪酬管理 首页 我的工资条 成员工资 工资核算 工资下载 查询管理   基础数据 组织管理 组织结构 员工花名册 统计报表 工资支付表 工资分摊表 个税申报表 平台管理 员工密码管理 角色管理 我的目标 2020年上半年 王婷婷 半年度考核目标 拒绝 同意    考核项目:时间时间时间时间时间时间时间时间时间时间时间时间时间时间时间 考核指标:完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间完成时间 评分标准:按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定 权重分数:10考核项目:质量质量质量质量质量质量质量质量质量质量质量质量质量质量质量 考核指标:完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量完成质量 评分标准:按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定 权重分数:50考核项目:数量数量数量数量数量数量数量数量数量数量数量数量数量数量数量 考核指标:完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量完成数量 评分标准:按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定 权重分数:10考核项目:成本成本成本成本成本成本成本成本成本成本成本成本成本成本成本 考核指标:完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本完成成本 评分标准:按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定按照规定 权重分数:30  权重分数总计：100 / 100  取 消 确 定 审批记录  </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;contentPage&quot;]/div[@class=&quot;content&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='退出登录'])[1]/following::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='修改密码'])[1]/following::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>
